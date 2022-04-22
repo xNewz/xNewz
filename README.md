@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnewz&show_icons=true&hide=&count_private=true&theme=tokyonight)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xNewz&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnewz&layout=compact&theme=tokyonight)
 
