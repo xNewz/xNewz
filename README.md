@@ -5,6 +5,7 @@
 - 📚 B.S.Ind.Ed. (Engineering Education) at KMITL
 ### Other
 - 🌱 My Blog : https://xnewz.medium.com/
+- 💻 Dev.to : https://www.dev.to/xnewz
 - 📫 How to reach me: pargornr@gmail.com
 
 ### Skills
