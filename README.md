@@ -6,7 +6,7 @@
 ### Other
 - 🌱 My Blog : https://xnewz.medium.com/
 - 💻 Dev.to : https://www.dev.to/xnewz
-- 📫 How to reach me: pargornr@gmail.com
+- 📫 How to reach me: [pargornr@gmail.com](mailto:pargornr@gmail.com)
 
 ### Skills
 <p align="left">
