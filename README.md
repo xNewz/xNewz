@@ -15,13 +15,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnewz&layout=compact&theme=tokyonight)
 
 ### My Activities
-
 <div align="left">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=xnewz&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ### Techs
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
@@ -40,8 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
 </div>
 
-###
-
 ### Support Me
-
 <a href="https://www.buymeacoffee.com/xnewz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Holopin badges
+[![An image of @xnewz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xnewz)](https://holopin.io/@xnewz)
