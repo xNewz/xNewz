@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnewz&layout=compact&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnewz&layout=compact&theme=tokyonight) -->
 
 <!-- ### My Activities
 <div align="left">
