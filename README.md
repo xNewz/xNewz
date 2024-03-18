@@ -6,7 +6,7 @@
 ### Other
 - 🌱 My Blog : https://xnewz.medium.com/
 - 💻 Dev.to : https://www.dev.to/xnewz
-- 📫 How to reach me: [pargornr@gmail.com](mailto:pargornr@gmail.com)
+- 📫 How to reach me: [pargorn.ru@gmail.com](mailto:pargorn.ru@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnewz&show_icons=true&hide=&count_private=true&theme=tokyonight)
 
