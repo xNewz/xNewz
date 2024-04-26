@@ -45,8 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
 </div>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/xnewz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Holopin badges
 [![An image of @xnewz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xnewz)](https://holopin.io/@xnewz)
+
+### Support Me
+<a href="https://www.buymeacoffee.com/xnewz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
