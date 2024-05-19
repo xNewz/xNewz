@@ -7,6 +7,7 @@
 - 🌱 My Website : [www.xnewz.site](https://xnewz.site)
 - 💻 Dev.to : www.dev.to/xnewz
 - 📫 How to reach me: [pargorn.ru@gmail.com](mailto:pargorn.ru@gmail.com)
+- 👨🏻‍💻 LinkedIn: [pargorn-ru](https://www.linkedin.com/in/pargorn-ru/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnewz&show_icons=true&hide=&count_private=true&theme=tokyonight)
 
