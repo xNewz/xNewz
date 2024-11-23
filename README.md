@@ -4,7 +4,7 @@
 - 📚 Information Technology at Uthai Thani Technical College
 - 📚 B.S.Ind.Ed. (Engineering Education) at KMITL
 ### Other
-- 🌱 My Website : [www.xnewz.site](https://xnewz.site)
+- 🌱 My Website : [www.pargorn.com](https://pargorn.com)
 - 💻 Dev.to : www.dev.to/xnewz
 - 📫 How to reach me: [pargorn.ru@gmail.com](mailto:pargorn.ru@gmail.com)
 - 👨🏻‍💻 LinkedIn: [pargorn-ru](https://www.linkedin.com/in/pargorn-ru/)
