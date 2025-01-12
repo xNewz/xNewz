@@ -1,17 +1,35 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=xnewz&color=blueviolet)
-### My Education
-- 📚 Information Technology at Uthai Thani Technical College
-- 📚 B.S.Ind.Ed. (Engineering Education) at KMITL
-### Other
-- 🌱 My Website : [www.pargorn.com](https://pargorn.com)
-- 💻 Dev.to : www.dev.to/xnewz
-- 📫 How to reach me: [pargorn.ru@gmail.com](mailto:pargorn.ru@gmail.com)
-- 👨🏻‍💻 LinkedIn: [pargorn-ru](https://www.linkedin.com/in/pargorn-ru/)
+<div align="center">
+  <h1>👋 Hi there! I'm Pargorn Ruasijan</h1>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=xnewz&color=blueviolet" alt="Profile Views">
+  </p>
+  <blockquote>
+    <strong>Software Engineer | Back-End Developer | Blogger</strong>
+  </blockquote>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnewz&show_icons=true&hide=&count_private=true&theme=tokyonight)
+### 🌟 About Me
+Hello! I'm a passionate software engineer with experience in building efficient and scalable backend systems. I love solving complex problems and constantly learning new technologies to enhance my skills. 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight)
+### 🛠 Experience
+- 💼 **Software Engineer** at Internet Thailand Public Company Limited  
+- 🎓 **Teaching Practice** at Uthai Thani Technical College  
+- 💻 **Back End Developer (Intern)** at Little Bean Soft  
+
+### 🎓 Education
+- 🎓 **B.S.Ind.Ed. (Engineering Education)** in Engineering Education at King Mongkut's Institute of Technology Ladkrabang (KMITL)  
+- 📘 **Information Technology** at Uthai Thani Technical College
+
+### 🌐 Let's Connect!
+- 🌱 **My Website**: [www.pargorn.com](https://pargorn.com)  
+- 💻 **Dev.to**: [dev.to/xnewz](https://dev.to/xnewz)  
+- 📧 **Email**: [pargorn.ru@gmail.com](mailto:pargorn.ru@gmail.com)  
+- 👨🏻‍💻 **LinkedIn**: [pargorn-ru](https://www.linkedin.com/in/pargorn-ru/)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xnewz&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnewz&layout=compact&theme=tokyonight) -->
 
