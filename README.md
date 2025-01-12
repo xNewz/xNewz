@@ -31,6 +31,23 @@ Hello! I'm a passionate software engineer with experience in building efficient 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
+### Latest Video
+
+<table>
+  <tr>
+    <td style="border: none; text-align: center;">
+      <a href="https://www.youtube.com/watch?v=kvPu1uUWJfs">
+        <img width="140px" src="https://i.ytimg.com/vi/kvPu1uUWJfs/mqdefault.jpg" alt="การทำ HTTPS ด้วย Certbot และ Nginx บน Ubuntu Server">
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <a href="https://www.youtube.com/watch?v=kvPu1uUWJfs"><strong>การทำ HTTPS ด้วย Certbot และ Nginx บน Ubuntu Server</strong></a>
+      <br>
+      Making HTTPS With Certbot and Nginx on Ubuntu Server
+    </td>
+  </tr>
+</table>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnewz&layout=compact&theme=tokyonight) -->
 
 <!-- ### My Activities
