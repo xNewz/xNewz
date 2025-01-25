@@ -17,7 +17,7 @@ Hello! I'm a passionate software engineer with experience in building efficient 
 - 💻 **Back End Developer (Intern)** at Little Bean Soft  
 
 ### 🎓 Education
-- 🎓 **B.S.Ind.Ed. (Engineering Education)** in Engineering Education at King Mongkut's Institute of Technology Ladkrabang (KMITL)  
+- 🎓 **B.S.Ind.Ed. (Engineering Education)** at King Mongkut's Institute of Technology Ladkrabang (KMITL)  
 - 📘 **Information Technology** at Uthai Thani Technical College
 
 ### 🌐 Let's Connect!
