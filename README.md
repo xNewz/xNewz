@@ -23,7 +23,7 @@ Hello! I'm a passionate software engineer with experience in building efficient 
 ### 🌐 Let's Connect!
 - 🌱 **My Website**: [www.pargorn.com](https://pargorn.com)  
 - 💻 **Dev.to**: [dev.to/xnewz](https://dev.to/xnewz)  
-- 📧 **Email**: [pargorn.ru@gmail.com](mailto:pargorn.ru@gmail.com)  
+- 📧 **Email**: [contact@pargorn.com](mailto:contact@pargorn.com)  
 - 👨🏻‍💻 **LinkedIn**: [pargorn-ru](https://www.linkedin.com/in/pargorn-ru/)  
 
 <p align="center">
