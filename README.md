@@ -58,14 +58,14 @@ Hello! I'm a passionate software engineer with experience in building efficient 
 <!-- ### Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xNewz) -->
 
-### Database
+### Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"/>
 </div>
 
-### Cloud Services
+### Cloud Platforms
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="aws logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" width="52" alt="google cloud logo"  /> -->
@@ -75,7 +75,7 @@ Hello! I'm a passionate software engineer with experience in building efficient 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" width="52" alt="vercel" />
 </div>
 
-### Tools
+### Development Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
@@ -87,7 +87,7 @@ Hello! I'm a passionate software engineer with experience in building efficient 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-plain-wordmark.svg" height="40" width="52" alt="rancher logo" />
 </div>
 
-### Tech Stack
+### Technologies & Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="52" alt="javascript logo" />
