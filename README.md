@@ -31,6 +31,10 @@ Hello! I'm a passionate software engineer with experience in building efficient 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p>
 
+### My PZ Server
+
+<a href="https://www.trackyserver.com/server/3168835" target="_blank"><img alt="NITRO PZ Server PVP Project Zomboid server" src="https://www.trackyserver.com/banner/3168835/town/FFFFFF/FFFFFF" width="468" height="auto" /></a>
+
 ### Latest Video
 
 <table>
