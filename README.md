@@ -26,10 +26,18 @@ Hello! I'm a passionate software engineer with experience in building efficient 
 - 📧 **Email**: [contact@pargorn.com](mailto:contact@pargorn.com)  
 - 👨🏻‍💻 **LinkedIn**: [pargorn-ru](https://www.linkedin.com/in/pargorn-ru/)  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xnewz&show_icons=true&hide=&count_private=true&theme=tokyonight" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p> -->
+
+<p align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=xNewz&theme=one_dark_pro&hide_border=true"
+    width="49%"
+  />
 </p>
+
 
 ### Latest Video
 
