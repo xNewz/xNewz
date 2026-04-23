@@ -31,13 +31,13 @@ Hello! I'm a passionate software engineer with experience in building efficient 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xnewz&theme=tokyonight" alt="GitHub Streak" width="48%">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://nirzak-streak-stats.vercel.app/?user=xNewz&theme=one_dark_pro&hide_border=true"
     width="49%"
   />
 </p>
-
+-->
 
 ### Latest Video
 
